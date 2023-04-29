@@ -1,6 +1,7 @@
 # 밥 한끼 하자
 > **2022 SYU SW Contest Project**  
-[발표자료](https://drive.google.com/file/d/1_2M-Y0kp_2tEj7TGt7-6xDy0hiPRGUjZ/view?usp=share_link)
+
+**[발표 자료](https://drive.google.com/file/d/1_2M-Y0kp_2tEj7TGt7-6xDy0hiPRGUjZ/view?usp=share_link)**
 
 ## Frontend
 ### Developer
@@ -10,10 +11,9 @@
 ### Designer
 * **성예지**
 
-
 ### Tech
-* **React Native**
 * **TypeScript**
+* **React Native**
 * **Redux(+ Toolkit)**
 * **Google Map API**
 
@@ -23,6 +23,6 @@
 * **김동열**
 
 ### Tech
+* **Java**
 * **Spring Boot**
 * **Spring Data JPA**
-
